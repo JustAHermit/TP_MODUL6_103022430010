@@ -1,0 +1,15 @@
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\bin\Debug\net10.0\TP_MOD6_103022430010.exe
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\bin\Debug\net10.0\TP_MOD6_103022430010.deps.json
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\bin\Debug\net10.0\TP_MOD6_103022430010.runtimeconfig.json
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\bin\Debug\net10.0\TP_MOD6_103022430010.dll
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\bin\Debug\net10.0\TP_MOD6_103022430010.pdb
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\obj\Debug\net10.0\TP_MOD6_103022430010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\obj\Debug\net10.0\TP_MOD6_103022430010.AssemblyInfoInputs.cache
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\obj\Debug\net10.0\TP_MOD6_103022430010.AssemblyInfo.cs
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\obj\Debug\net10.0\TP_MOD6_103022430010.csproj.CoreCompileInputs.cache
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\obj\Debug\net10.0\TP_MOD6_103022430010.sourcelink.json
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\obj\Debug\net10.0\TP_MOD6_103022430010.dll
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\obj\Debug\net10.0\refint\TP_MOD6_103022430010.dll
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\obj\Debug\net10.0\TP_MOD6_103022430010.pdb
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\obj\Debug\net10.0\TP_MOD6_103022430010.genruntimeconfig.cache
+C:\Users\MyBook Hype AMD\Documents\College Material\VSC stuff\TP_MOD6_103022430010\TP_MOD6_103022430010\obj\Debug\net10.0\ref\TP_MOD6_103022430010.dll
