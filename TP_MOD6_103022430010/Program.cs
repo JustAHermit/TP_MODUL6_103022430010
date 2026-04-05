@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 public class SayaMusicTrack
 {
@@ -8,19 +9,28 @@ public class SayaMusicTrack
 
     public SayaMusicTrack(string title)
     {
+        Debug.Assert(title != null);
+        Debug.Assert(title.Length <= 100);
+
         this.title = title;
-
-        Random random = new Random();
-        this.id = random.Next(10000, 100000);
-
+        this.id = new Random().Next(10000, 100000);
         this.playCount = "0";
     }
 
     public void IncreasePlayCount(int count)
     {
-        int currentCount = int.Parse(playCount);
-        int newCount = currentCount + count;
-        playCount = newCount.ToString();
+        Debug.Assert(count <= 10000000);
+
+        try
+        {
+            int currentCount = int.Parse(playCount);
+            int newCount = checked(currentCount + count);
+            playCount = newCount.ToString();
+        }
+        catch (OverflowException)
+        {
+            Console.WriteLine("Error: playcount melebihi batas!");
+        }
     }
 
     public void PrintTrackDetails()
@@ -29,16 +39,18 @@ public class SayaMusicTrack
         Console.WriteLine("Title: " + title);
         Console.WriteLine("Play Count: " + playCount);
     }
-
 }
 class Program
 {
     static void Main()
     {
-        SayaMusicTrack lagu = new SayaMusicTrack("Gone Angels");
+        SayaMusicTrack track = new SayaMusicTrack("In Hell We Live, Lament");
 
-        lagu.IncreasePlayCount(12021773);
+        for (int i = 0; i < 250; i++)
+        {
+            track.IncreasePlayCount(10000000);
+        }
 
-        lagu.PrintTrackDetails();
+        track.PrintTrackDetails();
     }
 }
